@@ -11,7 +11,11 @@ body {
 header {
 	padding: 10px 10px 10px 10px;
 	background-color:#d1d1e0;
-}
+	border-bottom: 1px solid #CCCCCC;
+  	margin: 10px 0 15px 0;
+  	font-size:30px;
+ 	text-align: center;
+}	
 img{
 	border-radius:8px;
 	position: absolute;
@@ -27,13 +31,7 @@ h1, h3, h4, p {
 
 h4, p {
 	text-align: left;
-}
-}
-header, h1 {
-  border-bottom: 1px solid #CCCCCC;
-  margin: 10px 0 15px 0;
-  font-size:30px;
-  text-align: center;
+
 }
 main {
 	width:500px;
