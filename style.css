@@ -47,6 +47,12 @@ h3 {
   font-size:35px;
   
 }
+h3 p:nth-child(2n){
+	font-weight:bold;
+}
+h3 p:nth-child(3n){
+	font-style:italic;
+}
 
 h4 ul {
   border-bottom: 1px solid #CCCCCC;
